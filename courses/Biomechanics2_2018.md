@@ -14,7 +14,7 @@
 
 
 ### Lecture 2
-- [Fundamental Concepts](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/KineticsFundamentalConcepts.ipynb)
+- [Fundamental Concepts (Newton Laws)](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/KineticsFundamentalConcepts.ipynb)
 - [Newton Law for particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/newtonLawForParticles.ipynb)
 
 
