@@ -1,7 +1,7 @@
 # Biomechanics II (v. 2018)  
 
 
-### Instructor  
+### Instructors  
 - Marcos Duarte
 - Renato Naville Watanabe
 
