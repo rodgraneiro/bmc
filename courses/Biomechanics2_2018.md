@@ -17,5 +17,10 @@
 - [Fundamental Concepts (Newton Laws)](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/KineticsFundamentalConcepts.ipynb)
 - [Newton Law for particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/newtonLawForParticles.ipynb)
 
+### Lecture 3
 
+- [Vertical jump](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/VerticalJump.ipynb)
  
+### Lecture 4 
+
+- 
