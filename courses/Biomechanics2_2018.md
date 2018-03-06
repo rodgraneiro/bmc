@@ -22,5 +22,5 @@
 - [Vertical jump](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/VerticalJump.ipynb)
  
 ### Lecture 4 
-
+- [Free body diagram to particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/FBDParticles.ipynb)
 - 
