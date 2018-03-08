@@ -1,4 +1,4 @@
-# Biomechanics II (v. 2017)  
+# Biomechanics I (v. 2017)  
 
 
 ### Instructors  
@@ -12,8 +12,8 @@
 - [Introduction](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/Biomechanics.ipynb)
 
 ### Lecture 2
-- [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/PythonForScientificComputing.ipynb)
-
+- [Python for scintific Computing](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/PythonForScientificComputing.ipynb)
+-[Python Tutorial](https://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/PythonTutorial.ipynb)
 
 ### Lecture 2
 - [Fundamental Concepts (Newton Laws)](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/KineticsFundamentalConcepts.ipynb)
