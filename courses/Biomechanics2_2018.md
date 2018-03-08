@@ -9,13 +9,13 @@
 ## Lecture Schedule
 
 ### Lecture 1   
-- [Introduction](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/Biomechanics.ipynb)
-- [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/PythonForScientificComputing.ipynb)
+- [Introduction](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Biomechanics.ipynb)
+- [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb)
 
 
 ### Lecture 2
-- [Fundamental Concepts (Newton Laws)](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/KineticsFundamentalConcepts.ipynb)
-- [Newton Law for particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/newtonLawForParticles.ipynb)
+- [Fundamental Concepts (Newton Laws)](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/KineticsFundamentalConcepts.ipynb)
+- [Newton Law for particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb)
 
 ### Lecture 3
 
