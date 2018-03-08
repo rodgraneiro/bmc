@@ -12,7 +12,7 @@
 - [Introduction](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/Biomechanics.ipynb)
 
 ### Lecture 2
-- [Python for scintific Computing](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/PythonForScientificComputing.ipynb)
+- [Python for scientific Computing](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/PythonForScientificComputing.ipynb)
 -[Python Tutorial](https://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/PythonTutorial.ipynb)
 
 
