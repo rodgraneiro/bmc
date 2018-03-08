@@ -16,7 +16,7 @@
 -[Python Tutorial](https://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/PythonTutorial.ipynb)
 
 ### Lecture 2
-- [Fundamental Concepts (Newton Laws)](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/KineticsFundamentalConcepts.ipynb)
+- [Particle kinematics](http://nbviewer.jupyter.org/github/demotu/BMC/blob/master/notebooks/KinematicsParticle.ipynb)
 - [Newton Law for particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/Notebooks/newtonLawForParticles.ipynb)
 
 ### Lecture 3
