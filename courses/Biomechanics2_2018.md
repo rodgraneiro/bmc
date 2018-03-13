@@ -30,4 +30,4 @@
 
 ## References
 
-- [1](http://ruina.tam.cornell.edu/Book/)
+- [[1]   Ruina, A. and Pratap R., Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/)
