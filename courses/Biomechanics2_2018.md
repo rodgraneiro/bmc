@@ -20,6 +20,7 @@
 ### Lecture 3
 
 - [Vertical jump](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/VerticalJump.ipynb)
+
    **Technical report** 1.Mechanical modeling of the problem. 2. Graphs from experimental data (ground reaction force) and acceleration, velocity, vertical displacement and mechanical power of the subjects gravity center. 3. Jump phases identification. 4. Estimate of the jump height using the time of flight and linear momentum variation.
 
 ### Lecture 4 
