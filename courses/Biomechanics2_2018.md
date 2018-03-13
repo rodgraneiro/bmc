@@ -25,7 +25,7 @@
 - [Free body diagram to particles](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/FBDParticles.ipynb)
 
 ### Lecture 5
-- Problems  11.1.16, 11.1.19, 11.1.24, 11.1.29, 11.1.30, 11.1.31(a,b,d) 11.1.32 from [1](http://ruina.tam.cornell.edu/Book/).
+- Problems  11.1.16, 11.1.19, 11.1.24, 11.1.29, 11.1.30, 11.1.31(a,b,d) 11.1.32 from [[1]](http://ruina.tam.cornell.edu/Book/).
 
 
 ## References
