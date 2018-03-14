@@ -29,6 +29,8 @@
 ### Lecture 5
 - Problems  11.1.16, 11.1.19, 11.1.24, 11.1.29, 11.1.30, 11.1.31(a,b,d) 11.1.32 from [[1]](http://ruina.tam.cornell.edu/Book/).
 
+### Lecture 6
+- Problems 3.3.9, 3.3.20, 10.1.6, 12.1.6(a,b,c,d,f), 12.1.7, 12.1.10 (a,b) from [[1]](http://ruina.tam.cornell.edu/Book/).
 
 ## References
 
