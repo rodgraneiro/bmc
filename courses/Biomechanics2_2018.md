@@ -32,6 +32,9 @@
 ### Lecture 6
 - Problems 3.3.9, 3.3.20, 10.1.6, 12.1.6(a,b,c,d,f), 12.1.7, 12.1.10 (a,b) from [[1]](http://ruina.tam.cornell.edu/Book/).
 
+### Lecture 9
+- [Newton-Euler equations for rigid bodies](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/newton_euler_equations.ipynb)
+
 ## References
 
 - [[1]  Ruina, A. and Pratap R., Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/)
