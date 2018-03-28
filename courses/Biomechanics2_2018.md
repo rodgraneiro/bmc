@@ -42,6 +42,9 @@
 ### Lecture 9
 - [Center of mass and moment of inertia](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/CenterOfMassAndMomentOfInertia.ipynb)
 
+### Lecture 10
+- [Body segment parameters](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/BodySegmentParameters.ipynb)
+
 ## References
 
 - [[1]  Ruina, A. and Pratap R., Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/)
