@@ -45,6 +45,11 @@
 ### Lecture 10
 - [Body segment parameters](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/BodySegmentParameters.ipynb)
 
+### Lecture 11
+- [Free body diagram for rigid bodies](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/FreeBodyDiagramForRigidBodies.ipynb)
+
+
+
 ## References
 
 - [[1]  Ruina, A. and Pratap R., Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/)
