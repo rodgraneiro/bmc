@@ -1,8 +1,8 @@
 # Introduction to modeling and simulation of human movement
 
 ### Instructor  
-- Marcos Duarte
-- Renato Watanabe
+- [Marcos Duarte](http://demotu.org/people/marcos-duarte/)
+- [Renato Watanabe](http://demotu.org/pessoal/renato/)
 
 ### Time and place  
 - Tuesdays, 17-19h; Thursdays, 17-19h. UFABC, campus São Bernardo do Campo
@@ -54,7 +54,7 @@
  + Zajac (1989)  
  + Anderson (2007), Thelen (2003), Millard et al. (2013), McLean et al. (2003)
 
-**Assignments (due by March 6th)**
+**Assignments**
  + Add a function for the parallel elastic element (PEE) to the script from page 655 of Nigg & Herzog (2006).    
  + Write computer programs to plot each component of a Hill-type muscle model having parameters as inputs.
  
@@ -64,7 +64,7 @@
 **Readings**   
  + Chapter 8 of Downey (2011)
  
-**Assignments (due by March 13th)**   
+**Assignments**   
  + Write computer programs to solve the exercises 8.1 and 8.2 of Downey (2011).
  
 ### Week 6
@@ -128,4 +128,3 @@
 Zajac FE, Gordon ME (1989) [Determining muscle's force and action in multi-articular movement](https://drive.google.com/open?id=0BxbW72zV7WmUcC1zSGpEOUxhWXM&authuser=0). Exercise and Sport Sciences Reviews, 17, 187-230.
 - Zajac FE (1993) [Muscle coordination of movement: a perspective](http://e.guigon.free.fr/rsc/article/Zajac93.pdf). J Biomech., 26, Suppl 1:109-24.  
 - Zatsiorsky VM (2002) [Kinetics of human motion](http://books.google.com.br/books?id=wp3zt7oF8a0C). Human Kinetics.  
-
