@@ -48,7 +48,7 @@
  **Technical report** 1. Mechanical modeling of the problem 2. Compute joint angles of the ankle and  knee at the three planes. 3. Compute the joint forces and torques at the knee and ankle at the three planes. 4 Plot these curves and show the code used to perform the computing.
 
 ### Lecture 13
-- Problems  3.2.5, 3.2.7, 11.2.1, 11.2..2, 11.2.9, 11.2.11, 11.2.21 , 15.3.11, 15.3.15, 16.2.9, 18.3.26, 18.3.29
+- Problems  3.2.5, 3.2.7, 11.2.1, 11.2..2, 11.2.9, 11.2.11, 11.2.21 , 15.3.11, 15.3.15, 16.2.9, 18.3.26, 18.3.29 from [[1]  Ruina, A. and Pratap R., Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/) 
 - Problem 2 from [Newton-Euler equations for rigid bodies](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/newton_euler_equations.ipynb).
 - Problems 1 to 5 from [Body segment parameters](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/BodySegmentParameters.ipynb).
 - Problems 6, 7 and 8 from [http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/FreeBodyDiagram.ipynb](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/FreeBodyDiagram.ipynb).
