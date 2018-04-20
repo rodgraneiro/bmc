@@ -60,6 +60,10 @@
 ### Lecture 15
 - [3D Kinetics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/Tridimensional%20rigid%20body%20Kinetics.ipynb)
 
+### Lecture 16
+- [Lagrangian mechanics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/lagrangian_mechanics.ipynb)
+
+
 
 ## References   
 - [[1]  Ruina, A. and Pratap R., Introduction to Statics and Dynamics](http://ruina.tam.cornell.edu/Book/)  
