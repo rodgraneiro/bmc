@@ -63,6 +63,15 @@
 ### Lecture 16
 - [Lagrangian mechanics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/lagrangian_mechanics.ipynb)
 
+### Lecture 17
+- [Lagrangian mechanics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/lagrangian_mechanics.ipynb)
+
+### Lecture 18
+- [Matrix formalism for multibody dynamics](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MatrixFormalism.ipynb)
+
+### Lecture 19 
+
+- Problems from the [Lagrangian mechanics](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/lagrangian_mechanics.ipynb) and [Matrix formalism for multibody dynamics](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/MatrixFormalism.ipynb) notebooks.
 
 
 ## References   
