@@ -5,7 +5,7 @@
 - [Renato Watanabe](http://demotu.org/pessoal/renato/)
 
 ### Time and place  
-- Tuesdays, 17-19h; Thursdays, 17-19h. UFABC, campus São Bernardo do Campo
+- Tuesdays, 17-19h; Thursdays, 17-19h, lab A2 L001, campus São Bernardo do Campo
 
 ## Lecture Schedule
 
