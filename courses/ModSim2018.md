@@ -11,7 +11,7 @@
 
 ### Lecture 1
 
-Introduction
+[Introduction](bmc/courses/ModSim2018_0.pdf)
 
  * Control of human movement, modeling and simulation  
  * Course Information   
