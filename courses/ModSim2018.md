@@ -40,3 +40,15 @@ Readings:
  
 ### Lecture 3
 
+ * OpenSim tutorials
+ 
+### Lecture 4
+
+ * Python programming
+ 
+### Lecture 5
+
+ * Discussion about TSIANOS and LOEB (2017) and Zajac (1993)
+ 
+
+ 
