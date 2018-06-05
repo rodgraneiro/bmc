@@ -15,7 +15,7 @@
 
  * Control of human movement, modeling and simulation  
  * Course Information   
- * [OpenSim software](https://simtk.org/projects/opensim), [Mendeley](https://www.mendeley.com), [Github](https://www.github.com), [Python (Anaconda)](https://www.anaconda.com/) 
+ * [OpenSim software](https://simtk.org/projects/opensim), [Mendeley](https://www.mendeley.com), [Github](https://www.github.com), [Python](https://www.python.org/), [Anaconda](https://www.anaconda.com/) 
 
 Tasks (for Lecture 3):
 
