@@ -5,7 +5,7 @@
 - [Renato Watanabe](http://demotu.org/pessoal/renato/)
 
 ### Time and place  
-- Tuesdays, 17-19h; Thursdays, 17-19h, lab A2 L001, campus São Bernardo do Campo
+- Tuesdays, 17-19h; Thursdays, 17-19h, lab A2 L003, campus São Bernardo do Campo
 
 ## Lecture Schedule
 
@@ -15,7 +15,7 @@
 
  * Control of human movement, modeling and simulation  
  * Course Information   
- * [OpenSim software](https://simtk.org/projects/opensim), [Mendeley](https://www.mendeley.com), [Github](https://www.github.com), [Python (Anaconda)](https://simtk.org/projects/opensim) 
+ * [OpenSim software](https://simtk.org/projects/opensim), [Mendeley](https://www.mendeley.com), [Github](https://www.github.com), [Python (Anaconda)](https://www.anaconda.com/) 
 
 Tasks (for Lecture 3):
 
@@ -28,8 +28,9 @@ Readings (for Lecture 5):
 
 ### Lecture 2
 
- * Scientific computing
- * Python introduction 
- * Jupyter notebooks
+ * [Python for scientific computing](http://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb)
+ * [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb)
+ 
+ 
  
  
