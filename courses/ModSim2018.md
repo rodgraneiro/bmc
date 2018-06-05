@@ -15,7 +15,7 @@ Introduction
 
  * Control of human movement, modeling and simulation  
  * Course Information   
- * OpenSim software, Mendeley, Github, Python  
+ * [OpenSim software](https://simtk.org/projects/opensim), [Mendeley](www.mendeley.com), [Github](www.github.com), [Python (Anaconda)](https://simtk.org/projects/opensim) 
 
 Tasks (for Lecture 3):
 
