@@ -18,14 +18,18 @@ Introduction
  * OpenSim software, Mendeley, Github, Python  
 
 Tasks (for Lecture 3):
-Readings:
+
+*  Install OpenSim and do the first three tutorials (Help menu).
+
+Readings (for Lecture 5):
 
 * TSIANOS, G. A .; LOEB, G. E. Muscle and limb mechanics. Comprehensive Physiology, v. 7, n. 2, p. 429-462, 2017.
-
-* Install OpenSim and do the first three tutorials (Help menu).
+* ZAJAC, F. E. Muscle coordination of movement: a perspective. J Biomech, v. 26 Suppl 1, n. SUPPL. 1, p. 109–124, 1993. 
 
 ### Lecture 2
 
  * Scientific computing
  * Python introduction 
  * Jupyter notebooks
+ 
+ 
