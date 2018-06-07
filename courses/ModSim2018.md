@@ -33,7 +33,7 @@ Readings (for Lecture 5):
  
 Tasks (for Lecture 4):
 
-- Compute the acceleration of the particle with displacement data contained in the file [pezzack.txt](http://isbweb.org/data/pezzack/index.html) and compare with the true accelearation (contained in the same data).
+- Write a Jupyter notebook to compute and plot the acceleration of the particle with displacement data contained in the file [pezzack.txt](http://isbweb.org/data/pezzack/index.html). Additionally, compare the computed acceleration with the true acceleration (contained in the same data).
  
 Readings:
 
