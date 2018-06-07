@@ -32,6 +32,8 @@ Readings (for Lecture 5):
  * [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonForScientificComputing.ipynb)
  
 Tasks (for Lecture 4):
+
+- Compute the acceleration of the particle with displacement data contained in the file [pezzack.txt](http://isbweb.org/data/pezzack/index.html) and compare with the true accelearation (contained in the same data).
  
 Readings:
 
