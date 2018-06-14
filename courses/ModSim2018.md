@@ -50,7 +50,7 @@ Readings:
  
  Tasks (for Lecture 6):
  
-  * Plot the trajectory of a particle with gravity force acting on it (gravity acceleration $g = -9.81 m/s^2$)
+  * Plot the trajectory of a particle during 10 seconds with the gravity force acting on it (gravity acceleration g = -9.81 m/s^2). Consider that the initial velocity of the particle is v0 = 30 m/s and the initial angle with the horizontal plane is 30 degrees. 
  
  
 ### Lecture 5
