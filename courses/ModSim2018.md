@@ -61,7 +61,7 @@ Readings:
 
 ### Lecture 6
  
- 
+ * Numerical methods to solve ordinary differential equations.
  
 
  
