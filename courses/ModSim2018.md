@@ -56,7 +56,7 @@ Readings:
 ### Lecture 5
 
  * Discussion about TSIANOS and LOEB (2017) and Zajac (1993)  
-   + Animations about muscle contraction: [1](https://youtu.be/GrHsiHazpsw), [2](https://youtu.be/s_TRsf6tJsc)  
+   + Animations about muscle contraction: [1](https://youtu.be/GrHsiHazpsw), [2](https://youtu.be/jqy0i1KXUO4), [3](https://youtu.be/s_TRsf6tJsc)  
   
 
 ### Lecture 6
