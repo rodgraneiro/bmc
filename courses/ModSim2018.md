@@ -63,5 +63,9 @@ Readings:
  
  * Numerical methods to solve ordinary differential equations.
  
+ Readings (for Lecture 7):
+ 
+ * NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.  
+ 
 
  
