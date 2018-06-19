@@ -46,7 +46,8 @@ Readings:
  
 ### Lecture 4
 
- * Python programming
+ * Python programming  
+  + [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonTutorial.ipynb)
  
  Tasks (for Lecture 6):
  
