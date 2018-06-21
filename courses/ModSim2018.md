@@ -62,7 +62,7 @@ Readings:
 
 ### Lecture 6
  
- * Numerical methods to solve ordinary differential equations.
+ * Numerical methods to solve ordinary differential equations. [https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb]
  
  Readings (for Lecture 7):
  
