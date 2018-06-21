@@ -46,11 +46,27 @@ Readings:
  
 ### Lecture 4
 
- * Python programming
+ * Python programming  
+   + [Python Tutorial](https://nbviewer.jupyter.org/github/BMClab/bmc/blob/master/notebooks/PythonTutorial.ipynb)
+ 
+ Tasks (for Lecture 6):
+ 
+  * Plot the trajectory of a particle during 10 seconds with the gravity force acting on it (gravity acceleration g = -9.81 m/s^2). Consider that the initial velocity of the particle is v0 = 30 m/s and the initial angle with the horizontal plane is 30 degrees. 
+ 
  
 ### Lecture 5
 
- * Discussion about TSIANOS and LOEB (2017) and Zajac (1993)
+ * Discussion about TSIANOS and LOEB (2017) and Zajac (1993)  
+   + Animations about muscle contraction: [1](https://youtu.be/GrHsiHazpsw), [2](https://youtu.be/jqy0i1KXUO4), [3](https://youtu.be/s_TRsf6tJsc)  
+  
+
+### Lecture 6
+ 
+ * Numerical methods to solve ordinary differential equations. [https://github.com/BMClab/bmc/blob/master/notebooks/newtonLawForParticles.ipynb],[https://github.com/BMClab/bmc/blob/master/notebooks/OrdinaryDifferentialEquation.ipynb]
+ 
+ Readings (for Lecture 7):
+ 
+ * NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.  
  
 
  
