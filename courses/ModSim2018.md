@@ -75,4 +75,8 @@ Readings:
 ### Lecture 7
 
   * Discussion about NIGG, B. M.; HERZOG, W. Modelling. In: Biomechanics of the Musculo-skeletal System.  p. 501 - 534.
+  
+### Lecture 8
+
+  * Models of Kelvin-Voigt and Maxwell.   
  
