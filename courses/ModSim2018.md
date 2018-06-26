@@ -7,6 +7,10 @@
 ### Time and place  
 - Tuesdays, 17-19h; Thursdays, 17-19h, lab A2 L003, campus São Bernardo do Campo
 
+### Grades
+
+* [Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6yAX5ZHkzhnij4b_lklDwWtV-0KrqTlEQv2W_X2b-w1woXNmBR6p0Mq-IcV51gw7y0EeaBnIC5Xf0/pubhtml)
+
 ## Lecture Schedule
 
 ### Lecture 1
